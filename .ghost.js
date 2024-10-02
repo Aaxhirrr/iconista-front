@@ -4,3 +4,4 @@
 // Add loading spinner to auth flow
 // Improve animation on page transitions
 // Improve animation on page transitions
+// Optimize image loading in hero
