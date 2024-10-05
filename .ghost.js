@@ -8,3 +8,4 @@
 // Fix mobile layout for navbar
 // Fix bug in theme toggle
 // Fix overflow issue on contact form
+// Improve hero section responsiveness
