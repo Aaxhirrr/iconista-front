@@ -9,3 +9,4 @@
 // Fix bug in theme toggle
 // Fix overflow issue on contact form
 // Improve hero section responsiveness
+// Fix color contrast for dark mode
