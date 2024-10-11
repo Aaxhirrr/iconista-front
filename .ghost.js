@@ -12,3 +12,4 @@
 // Fix color contrast for dark mode
 // Fix overflow issue on contact form
 // Fix bug in theme toggle
+// Fix mobile layout for navbar
