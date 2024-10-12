@@ -13,3 +13,4 @@
 // Fix overflow issue on contact form
 // Fix bug in theme toggle
 // Fix mobile layout for navbar
+// Add loading spinner to auth flow
