@@ -15,3 +15,4 @@
 // Fix mobile layout for navbar
 // Add loading spinner to auth flow
 // Improve hero section responsiveness
+// Update font styles across layout
