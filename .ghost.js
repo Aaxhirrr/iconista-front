@@ -16,3 +16,4 @@
 // Add loading spinner to auth flow
 // Improve hero section responsiveness
 // Update font styles across layout
+// Fix overflow issue on contact form
