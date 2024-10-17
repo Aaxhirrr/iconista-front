@@ -17,3 +17,4 @@
 // Improve hero section responsiveness
 // Update font styles across layout
 // Fix overflow issue on contact form
+// Patch routing bug on dashboard
