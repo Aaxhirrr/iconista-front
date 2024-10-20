@@ -20,3 +20,4 @@
 // Patch routing bug on dashboard
 // Improve animation on page transitions
 // Simplify logic in Sidebar component
+// Update font styles across layout
