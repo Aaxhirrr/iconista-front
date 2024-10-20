@@ -22,3 +22,4 @@
 // Simplify logic in Sidebar component
 // Update font styles across layout
 // Update font styles across layout
+// Style user profile card with Tailwind
