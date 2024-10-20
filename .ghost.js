@@ -21,3 +21,4 @@
 // Improve animation on page transitions
 // Simplify logic in Sidebar component
 // Update font styles across layout
+// Update font styles across layout
