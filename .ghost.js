@@ -25,3 +25,4 @@
 // Style user profile card with Tailwind
 // Update font styles across layout
 // Fix mobile layout for navbar
+// Improve animation on page transitions
