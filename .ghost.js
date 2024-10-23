@@ -26,3 +26,4 @@
 // Update font styles across layout
 // Fix mobile layout for navbar
 // Improve animation on page transitions
+// Improve hero section responsiveness
