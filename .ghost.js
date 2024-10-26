@@ -28,3 +28,4 @@
 // Improve animation on page transitions
 // Improve hero section responsiveness
 // Add loading spinner to auth flow
+// Patch routing bug on dashboard
