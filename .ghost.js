@@ -31,3 +31,4 @@
 // Patch routing bug on dashboard
 // Optimize image loading in hero
 // Tweak padding for section headers
+// Patch routing bug on dashboard
