@@ -32,3 +32,4 @@
 // Optimize image loading in hero
 // Tweak padding for section headers
 // Patch routing bug on dashboard
+// Simplify logic in Sidebar component
