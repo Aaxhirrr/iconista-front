@@ -33,3 +33,4 @@
 // Tweak padding for section headers
 // Patch routing bug on dashboard
 // Simplify logic in Sidebar component
+// Fix bug in theme toggle
