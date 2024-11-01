@@ -35,3 +35,4 @@
 // Simplify logic in Sidebar component
 // Fix bug in theme toggle
 // Add login page component
+// Optimize image loading in hero
