@@ -38,3 +38,4 @@
 // Optimize image loading in hero
 // Add login page component
 // Fix bug in theme toggle
+// Clean up unused props in App.jsx
