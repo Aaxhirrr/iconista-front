@@ -37,3 +37,4 @@
 // Add login page component
 // Optimize image loading in hero
 // Add login page component
+// Fix bug in theme toggle
